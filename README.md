@@ -1,4 +1,4 @@
-# convert2YOLO
+# voc2YOLO
 Conversion from VOC format to YOLO format
 
  
